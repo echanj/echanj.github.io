@@ -2,10 +2,11 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
 [Towards Understanding the Relationship Between the Availability of Mental Health Care and the Incidence of Crime. A Statistical Exploration of USA Healthcare Shortage Areas and Reported Crime Data from the FBI Crime Database](/sample_page)
 <img src="images/IOD_project1_select_EDA.png?raw=true"/>
+[Go to Page](miniproject1/mini_project_main_2023.html)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
