@@ -48,8 +48,29 @@
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+3. NLP as a tool for  Mental Health Diagnosis ??? [Project Slides](./miniproject3/Miniproject3_slides.pdf)
+
+<div style="display: flex;">
+  <img src="./miniproject3/Miniproject3_example1.png" alt="Image 1" style="flex: 100%;">
+</div>
+<div style="display: flex;">
+  <img src="./miniproject3/Miniproject3_example2.png" alt="Image 2" style="flex: 100%;">
+</div>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <!-- Text on the left -->
+  <span style="display: inline-block;"><a href=" https://github.com/echanj/NLP_MH_sentiment_models.git">Clone the notebook from here !!!</a></span><br>
+  <span style="display: inline-block;"><a href="./miniproject3/mini_project3_full_version.html">Click here to view the online version!!!</a></span>
+  </div>
+  <div style="flex: 1;">
+    <!-- GIF on the right -->
+    <img src="./miniproject3/mini_proj3_nb_anim.gif" alt="GIF">
+  </div>
+</div>
+
+
 
 ---
 
