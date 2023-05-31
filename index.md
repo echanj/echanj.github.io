@@ -4,9 +4,26 @@
 
 ### Data Science Projects 
 
-[Towards Understanding the Relationship Between the Availability of Mental Health Care and the Incidence of Crime. A Statistical Exploration of USA Healthcare Shortage Areas and Reported Crime Data from the FBI Crime Database](/sample_page)
+Towards Understanding the Relationship Between the Availability of Mental Health Care and the Incidence of Crime. A Statistical Exploration of USA Healthcare Shortage Areas and Reported Crime Data from the FBI Crime Database.
+<div style="display: flex; width: 400px; height: 250px;">
+  <img src="images/HPSA_site_example.png" alt="Image 1" style="flex: 40%;">
+  <img src="images/FBI_CDE_example.png" alt="Image 2" style="flex: 60%;">
+</div>
 <img src="images/IOD_project1_select_EDA.png?raw=true"/>
-[Go to Page](miniproject1/mini_project_main_2023.html)
+
+
+
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <!-- Text on the left -->
+  <span style="display: inline-block;"><a href=" https://github.com/echanj/MHSA_vs_Crime_geomap.git">Clone the notebook from here !!!</a></span><br>
+  <span style="display: inline-block;"><a href=" ./miniproject1/mini_project_main_2023.html">Click here to view the online version!!!</a></span>
+  </div>
+  <div style="flex: 1;">
+    <!-- GIF on the right -->
+    <img src="./images/mini_proj1_nb_anim.gif" alt="GIF">
+  </div>
+</div>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
