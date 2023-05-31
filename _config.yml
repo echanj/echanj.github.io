@@ -1,9 +1,13 @@
 title: ERIC J. CHAN # your name (or website title) here
 logo: "/images/cashbot2.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
+  <img src="images/certified.png" >
+  <br><br>
   Certified in Applying Data Science and Machine Learning to Industry and Seeking full-time Employment Opportunities.     
   <br><br>
-   Foundational Data Science and AI Skills \: Python, Pandas, Numpy, Data Visualization, Data Cleansing, Data Manipulation, SQL, Tableau. | Core Machine Learning Skills: Scikit learn, Keras, Tensorflow. | Data Science Soft Skills: Problem Solving, Collaboration, Leadership, Emotional Intelligence.
+  <img src="images/ds_flow.png" alt="Data Science Workflow">
+  <b>Foundational Data Science and AI Skills :</b> Python, Pandas, Numpy, Data Visualization, Data Cleansing, Data Manipulation, SQL, Tableau. | Core Machine Learning Skills: Scikit learn, Keras, Tensorflow. | Data Science Soft Skills: Problem Solving, Collaboration, Leadership, Emotional Intelligence.
   <br><br>
   <a href="https://www.linkedin.com/in/eric-j-chan-37068b60/">View My LinkedIn Profile</a> 
   <br><br>
