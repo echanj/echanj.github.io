@@ -63,10 +63,12 @@ Problem Solving, Collaboration, Leadership, Emotional Intelligence.
  <b>The End-to-End Data Science Flow<b> 
  <img src="images/ds_flow.png" alt="Data Science Workflow">
  ---
- ## Molecular Modeling and Simualtions:
+## Molecular Modeling and Simualtions:
 - [Publications](https://sites.google.com/site/echanj/title-page-and-publications)
 - [Software](https://sites.google.com/site/echanj/title-page-and-publications/molecular-crystals-research)
-<!-->
+
+
+<!--
 - [Test to see if link is working](https://github.com/echanj/MHSA_vs_Crime_geomap/blob/main/mini_project_main_2023.html)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
