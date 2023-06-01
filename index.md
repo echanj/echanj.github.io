@@ -1,10 +1,11 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Data Science Projects 
+## Data Science Projects 
 
-1. Towards Understanding the Relationship Between the Availability of Mental Health Care and the Incidence of Crime. A Statistical Exploration of USA Healthcare Shortage Areas and Reported Crime Data from the FBI Crime Database.
+---
+### 1. Towards Understanding the Relationship Between the Availability of Mental Health Care and the Incidence of Crime. A Statistical Exploration of USA Healthcare Shortage Areas and Reported Crime Data from the FBI Crime Database.
 <div style="display: flex; width: 375px; height: 250px;">
   <img src="images/HPSA_site_example.png" alt="Image 1" style="flex: 40%;">
   <img src="images/FBI_CDE_example.png" alt="Image 2" style="flex: 60%;">
@@ -26,7 +27,7 @@
 </div>
 
 ---
-2. How Well Does ML Extract Simple Logic??? [Project Slides](./miniproject2/Mini_project2_presentation.pdf)
+### 2. How Well Does ML Extract Simple Logic??? [Project Slides](./miniproject2/Mini_project2_presentation.pdf)
 
 <div style="display: flex;">
   <img src="./miniproject2/mp2_example_slide1.png" alt="Image 1" style="flex: 100%;">
@@ -50,7 +51,9 @@
 ---
 
 ---
-3. NLP as a tool for  Mental Health Diagnosis ??? [Project Slides](./miniproject3/Miniproject3_slides.pdf)
+### 3. NLP as a Tool for  Mental Health Diagnosis ??? 
+[Project Slides](./miniproject3/Miniproject3_slides.pdf)
+[Project summary](./miniproject3/project_summary.md)
 
 <div style="display: flex;">
   <img src="./miniproject3/Miniproject3_example1.png" alt="Image 1" style="flex: 100%;">
@@ -67,6 +70,42 @@
   <div style="flex: 1;">
     <!-- GIF on the right -->
     <img src="./miniproject3/mini_proj3_nb_anim.gif" alt="GIF">
+  </div>
+</div>
+
+
+---
+
+### 4. Rapid Analysis of X-ray Images for Crystalline Materials Using Convolutional Neural Networks.
+(IOD Data Science and AI Certification: Capstone Project) 
+<br>
+[Project Slides](./capstone_IOD/IOD_Capstone_project_CNN_Xray_images_online.pdf)
+[Project Report](./capstone_IOD/Capstone_Project_report_EJC.pdf)
+
+<div style="display: flex;">
+  <img src="./capstone_IOD/example_slide2.png" alt="Image 1" style="flex: 100%;">
+</div>
+<div style="display: flex;">
+  <img src="./capstone_IOD/example_slide1.png" alt="Image 2" style="flex: 100%;">
+</div>
+<div style="display: flex;">
+  <img src="./capstone_IOD/business_overview.png" alt="Image 2" style="flex: 100%;">
+</div>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <!-- Text on the left -->
+  <span style="display: inline-block;"><a href=" https://github.com/echanj/CNN_2D_lattice_diffuse.git">Clone the notebook from here !!!</a></span><br>
+<br>
+  <p><b style="color: blue;">The Online Notebook Preview in Separate Parts:</b></p>
+  <span style="display: inline-block;"><a href="capstone_IOD/README_Eric_chan_capstone_start_here.html">Start Here!!!</a></span>
+  <br><span style="display: inline-block;"><a href="capstone_IOD/generate_random_datapoints.html">1. Generate Random Datapoints</a></span>
+  <br><span style="display: inline-block;"><a href="capstone_IOD/CNN_cfs4_big.html">2. Train the CNN</a></span>
+  <br><span style="display: inline-block;"><a href="capstone_IOD/ising_regen_test.html">3. Test Regeneration/Decoding </a></span>
+  <br><span style="display: inline-block;"><a href="capstone_IOD/predict_cfs_with_CNN.html">4. Make Predictions with the CNN</a></span>
+  </div>
+  <div style="flex: 1;">
+    <!-- GIF on the right -->
+    <img src="./capstone_IOD/CFS4_vector_L2_anime.gif" alt="GIF">
   </div>
 </div>
 
