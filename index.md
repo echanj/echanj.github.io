@@ -120,8 +120,8 @@
 #### Data Science Soft Skills
 Problem Solving, Collaboration, Leadership, Emotional Intelligence.
 
- <b>The End-to-End Data Science Flow<b> 
- <img src="images/ds_flow.png" alt="Data Science Workflow">
+<!-- <b>The End-to-End Data Science Flow<b> 
+ <img src="images/ds_flow.png" alt="Data Science Workflow"> -->
  ---
 ## Molecular Modeling and Simualtions:
 - [Publications](https://sites.google.com/site/echanj/title-page-and-publications)
