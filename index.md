@@ -128,6 +128,19 @@ Problem Solving, Collaboration, Leadership, Emotional Intelligence.
 - [Software](https://sites.google.com/site/echanj/title-page-and-publications/molecular-crystals-research)
 
 
+---
+## Live Dashboards and ML-Deployment Demos:
+- [Basic sentiment analysis (Flask app)](https://sentiment-basic-deployment-test.onrender.com) <br>
+  <img src="images/basic_sentiment.png" style="height: 250px;;">
+<br>
+- [ARIMA stock price forecasting (Dash app)](https://arima-stock-price-forecasting-app.onrender.com)
+ <br> <img src="images/Inputs_for_ARIMA_demo.png " style="width: 375px;">
+<div style="display: flex; width: 375px; height: 250px;">
+  <img src="images/plot_ACF_PACF.png" style="flex: 50%;">
+  <img src="images/plot_ARIMA.png"  style="flex: 50%;">
+</div>
+
+
 <!--
 - [Test to see if link is working](https://github.com/echanj/MHSA_vs_Crime_geomap/blob/main/mini_project_main_2023.html)
 - [Project 2 Title](http://example.com/)
